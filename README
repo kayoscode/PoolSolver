@@ -1,0 +1,5 @@
+This project is intended to be a high resolution physical simulation for use as a training tool
+May include:
+    -Shot accuracy prediction based on real calibration data
+    -Best possible and most reliable runout prediction
+    -User interface with graphical representations of data
